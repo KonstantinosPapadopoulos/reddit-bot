@@ -2,10 +2,10 @@ import re
 import os
 import praw
 
-SUB_REDDIT = ['femalefashionadvice','malefashionadvice','ABraThatFits']
+SUB_REDDIT = ['reddit1','reddit2','reddit3']
 LIMIT = 30
 SEARCH = [' ']
-MESSAGE = "For anyone here that likes amazing dresses, lingerie or modern coats, check out https://www.elenalda.com/ . I recently bought a dress for my girlfriend and she loved it! ^.^"
+MESSAGE = "idk whatever lol"
 
 if __name__ == '__main__':
 
