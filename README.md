@@ -1,2 +1,2 @@
-# RedditBot
-Redditbot that scans subreddits and posts replies to relevant posts
+# reddit-bot
+Dummy reddit bot that scans subreddits and posts replies to relevant posts
